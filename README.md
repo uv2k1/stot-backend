@@ -1,1 +1,1 @@
-# stot-backend
+# Server Side Code For Speech to Text
